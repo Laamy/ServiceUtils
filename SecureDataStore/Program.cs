@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataService
+namespace DataServiceUtil
 {
     internal class Program
     {
